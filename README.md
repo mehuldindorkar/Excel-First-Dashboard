@@ -1,2 +1,11 @@
 # Excel-First-Dashboard
 This project is an Excel-based Data Analysis Dashboard built from raw data to analyze total profit across regions and customer segments. It uses Pivot Tables, filters, charts, and formatting to turn raw data into clear business insights for better decision-making.
+To create a simple yet meaningful Excel dashboard that helps businesses understand:
+
+Which region performs the best
+
+Which product category gives high profit
+
+Which category needs improvement (e.g., negative profits)
+
+Overall profit distribution
